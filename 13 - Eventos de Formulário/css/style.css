@@ -88,8 +88,8 @@
   color: blueviolet;
 }
 
-.change-background {
-  background-color: red;
+.change-scale{
+  scale: 1.05;
 }
 
 @media (max-width: 600px) {
